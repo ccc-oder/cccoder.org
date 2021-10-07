@@ -1,5 +1,4 @@
-# www
-cccoder
+# CCCoder
 Chaos Computer Club an der Oder
 
 
