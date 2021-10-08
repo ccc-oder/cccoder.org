@@ -6,4 +6,4 @@ Chaos Computer Club an der Oder
 + oderSpace [hackerspace meeting rooms](http://www.oderspace.de/)
 + oderPhone [oderphone based on LoRaWan with oderPont-s | oderphone](http://www.oderphone.de/)
 + oderPoint [Access Point for internal newotwrk based on LoRaWAN](http://www.oderpoint.de/)
-+ oderBot
++ oderBot [oderBot.com  - roBot works on Oder Area and for Oder Society](http://www.oderbot.com/)
