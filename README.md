@@ -8,7 +8,7 @@ A hackerspace (also referred to as a hacklab, hackspace, or makerspace) is a com
 
 # CCC
 The Chaos Computer Club (CCC) is Europe's largest association of hackers[1] with 7700 registered members.[2] Founded in 1981, the association is incorporated as an eingetragener Verein in Germany, with local chapters (called Erfa-Kreise) in various cities in Germany and the surrounding countries, particularly where there are German-speaking communities. Since 1985, some chapters in Switzerland have organized an independent sister association called the Chaos Computer Club Schweiz [de] (CCC-CH) instead. 
-+ [Chaos Computer Club - Wikipedia](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
+[Chaos Computer Club - Wikipedia](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
 + [CCC - Chaos-Family](https://www.ccc.de/de/club/chaosfamily)
 
 ## Another Hackerspaces
