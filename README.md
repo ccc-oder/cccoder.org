@@ -1,8 +1,10 @@
 # [CCCoder - cccoder.org](https://www.cccoder.org/)
 
-Chaos Computer Club an der Oder
++ en: Chaos Computer Club on the Oder 
++ de: Chaos Computer Club an der Oder
 
 # Idea of Hackerspace
+
 A hackerspace (also referred to as a hacklab, hackspace, or makerspace) is a community-operated, often "not for profit" (501(c)(3) in the United States), workspace where people with common interests, such as computers, machining, technology, science, digital art, or electronic art, can meet, socialize, and collaborate.[1] Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial "for-profit" companies. 
 [Hackerspace - Wikipedia](https://en.wikipedia.org/wiki/Hackerspace)
 
@@ -18,7 +20,16 @@ The Chaos Computer Club (CCC) is Europe's largest association of hackers[1] with
 + [Hackerspace in Frankfurt - Heinos Netzblog](https://blog.apel-web.de/blog/2013/03/12/hackerspace-in-frankfurt/)
 + [Hackerspace - CCC FFM](https://ccc-ffm.de/hackerspace/)
 
+
+## Technical Culture
+
+Translation results
+Most hackers are more or less related to the hacker culture, but being a hacker is primarily technical skill.
+High technical culture results in interesting projects, beneficial in the long term for the local and global community. 
+
+
 ## Our Projects
+
 + oderSpace [hackerspace meeting rooms](http://www.oderspace.de/)
 + oderPhone [oderphone based on LoRaWan with oderPont-s](http://www.oderphone.de/)
 + oderPoint [Access Point for internal-local network based on LoRaWAN](http://www.oderpoint.de/)
