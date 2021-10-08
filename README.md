@@ -35,6 +35,9 @@ High technical culture results in interesting projects, beneficial in the long t
 + oderPoint [Access Point for internal-local network based on LoRaWAN](http://www.oderpoint.de/)
 + oderBot [oderBot.com  - roBot works on Oder Area and for Oder Society](http://www.oderbot.com/)
 
+## Cel powstania 
+
+Odra przepływa przez 3 kraje: Polskę, Niemcy, Czechy, dlatego warto przy pomocy tej naturalnej symboliki wypracować niezależne metody działania ponad granicami różnymi środkami w celu zwiększenia nizależności lokalnej społeczności w sferach technicznych.
 
 ---
 + [edit](https://github.com/ccc-oder/cccoder.org/edit/main/README.md)
