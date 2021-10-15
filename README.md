@@ -1,4 +1,4 @@
-![logo.cccoder.org](https://logo.cccoder.org/10/default.png)
+![logo.cccoder.org](https://logo.cccoder.org/10/cover.png)
 
 # [CCCoder - cccoder.org](https://www.cccoder.org/)
 
@@ -15,8 +15,10 @@ The Chaos Computer Club (CCC) is Europe's largest association of hackers[1] with
 [Chaos Computer Club - Wikipedia](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
 + [CCC - Chaos-Family](https://www.ccc.de/de/club/chaosfamily)
 
+
 ## Another Hackerspaces
 + [List of Hacker Spaces - HackerspaceWiki](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
+
 
 ## Articles
 + [Hackerspace in Frankfurt - Heinos Netzblog](https://blog.apel-web.de/blog/2013/03/12/hackerspace-in-frankfurt/)
@@ -37,7 +39,8 @@ High technical culture results in interesting projects, beneficial in the long t
 + oderPoint [Access Point for internal-local network based on LoRaWAN](http://www.oderpoint.de/)
 + oderBot [oderBot.com  - roBot works on Oder Area and for Oder Society](http://www.oderbot.com/)
 
-## Cel powstania 
+
+## Cel powstania
 
 Odra przepływa przez 3 kraje: Polskę, Niemcy, Czechy, dlatego warto przy pomocy tej naturalnej symboliki wypracować niezależne metody działania ponad granicami różnymi środkami w celu zwiększenia nizależności lokalnej społeczności w sferach technicznych.
 
