@@ -1,4 +1,4 @@
-![logo.cccoder.org](https://logo.cccoder.org/10/cover.png)
+![logo.cccoder.org](https://logo.cccoder.org/9/default.png)
 
 # [CCCoder - cccoder.org](https://www.cccoder.org/)
 
