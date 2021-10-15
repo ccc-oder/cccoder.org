@@ -1,3 +1,5 @@
+![logo.cccoder.org](https://logo.cccoder.org/10/default.png)
+
 # [CCCoder - cccoder.org](https://www.cccoder.org/)
 
 + en: Chaos Computer Club on the Oder 
