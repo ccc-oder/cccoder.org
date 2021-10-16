@@ -8,7 +8,7 @@
 
 # CCCoder
 CCCoder* is an organisation/movement based on Chaos Computer Club.
-The physical meeting place we call OderSpace and is available on Frankfurt/Oder.
+The physical meeting place we call OderSpace and the first is available on Frankfurt/Oder.
 
 The OderSpaces are developing below projects independently:
 1. OderPoint
