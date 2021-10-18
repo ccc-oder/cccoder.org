@@ -63,6 +63,30 @@ High technical culture results in interesting projects, beneficial in the long t
 
 Odra przepływa przez 3 kraje: Polskę, Niemcy, Czechy, dlatego warto przy pomocy tej naturalnej symboliki wypracować niezależne metody działania ponad granicami różnymi środkami w celu zwiększenia nizależności lokalnej społeczności w sferach technicznych.
 
+
+## Oderspace Frankfurt Oder
+
+### Spotkania
+
+W jakie dni
+
+zdalne
+
+lokalne
+
+video
+
+
+### Dojazd
+
+Koleją
+
+Autem
+
+Rowerem
+
+
+
 ---
 + [edit](https://github.com/ccc-oder/cccoder.org/edit/main/README.md)
 + [Chaos Computer Club an der Oder -> ccc oder .org](https://www.cccoder.org/)
