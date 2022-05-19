@@ -1,6 +1,16 @@
 ![logo.cccoder.org](https://logo.cccoder.org/9/default.png)
 
 # [CCCoder - cccoder.org](https://www.cccoder.org/)
+ 
++ [ccc-oder/cccoder.org: Chaos Computer Club an der Oder](https://github.com/ccc-oder/cccoder.org)
++ [LaborWiki](https://wiki.das-labor.org/w/LABOR_Wiki)
++ [c-base - Raumstation unter Berlin](http://www.c-base.org/)
++ [hackerspaces.org](https://hackerspaces.org/)
++ [Was ist ein Hackerspace? Bedeutung, Definition, Erklärung - Bedeutung Online](https://www.bedeutungonline.de/was-ist-ein-hackerspace-bedeutung-definition-erklaerung/)
++ [Projekt – Netzladen.org](https://netzladen.org/projekt/)
++ [CCC Regional](https://www.ccc.de/regional/)
++ 
+
 
 + en: Chaos Computer Club on the Oder 
 + de: Chaos Computer Club an der Oder
