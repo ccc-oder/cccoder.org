@@ -96,6 +96,50 @@ Autem
 Rowerem
 
 
+[Don’t run your coding club alone – Hack Club](https://hackclub.com/)
+
+> ## Get your club going & growingwith Hack Club.
+> 
+> ### Chat with 100s of club leaders
+> 
+> In our [Slack community](https://hackclub.com/slack), you’ll be invited to a space for Hack Club leaders to ask questions & chat, share projects, & attend weekly live events.
+> 
+> ### Tools to hack on
+> 
+> We build tools, such as [Sprig](https://sprig.hackclub.com), that your members can use to make projects with in meetings! Built more of them with us in our [Slack community](https://hackclub.com/slack).
+> 
+> ### Meeting content
+> 
+> Come prepared to every meeting with over 100 [workshops](https://workshops.hackclub.com) (3 years’ worth!) that guide your club members through making fun, creative projects.
+> 
+> ### Stickers
+> 
+> Get [amazing stickers](https://hackclub.com/stickers) for marketing your club shipped directly to you & your club members.
+> 
+> ### A nonprofit bank account
+> 
+> Use our 501(c)(3) status and a restricted fund with [Hack Club Bank](https://hackclub.com/bank) to fundraise, accept donations, buy things!
+> 
+> ### Weekly events
+> 
+> From [Hack Night](https://hackclub.com/night) to [AMAs](https://hackclub.com/amas) to [weirder events](https://twitter.com/hackclub/status/1300494921997193217?s=21), the Slack community has live events for leaders & members alike every week.
+> 
+> ### A basket of free tools
+> 
+> We're always building new tools for leaders, such as [Sprig](https://sprig.hackclub.com)! We've also got free subscriptions to Figma Pro, Postman, and more for running a great club.
+> 
+> ### Existing clubs welcome
+> 
+> When established CS clubs join, they get all the Hack Club benefits: Zoom Pro, stickers, our Slack community, [workshops](https://workshops.hackclub.com/), the works. They’re welcome to use the “Hack Club” name or keep their existing one.
+> 
+> ~ The Hack Club Slack ~
+> 
+> ## Come for the skills,  
+> stay for the people.
+> 
+> Coding is often seen as an isolating activity. Plenty of groups exist for kids who are interested in sports, theater, or chess, but the stereotype of a programmer is a person who sits alone in a dark room. **It doesn't have to be this way**—in the Hack Club Slack (Discord-style online groupchat), you'll find a group of 20,000+ fabulous people to talk to, active at all hours. For leaders, you'll be able to connect with other leaders and support one another.
+
+
 
 ---
 + [edit](https://github.com/ccc-oder/cccoder.org/edit/main/README.md)
